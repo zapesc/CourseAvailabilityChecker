@@ -1,0 +1,17 @@
+{
+  "name": "cac",
+  "version": "1.0.0",
+  "description": "checks if a course is available for a selected term at northeastern",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.14",
+    "prompt": "^1.2.0"
+  },
+  "type": "module"
+}
